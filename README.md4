@@ -1,0 +1,28 @@
+# Student Performance Analysis 🎓
+
+A beginner Pandas project for analyzing student performance data using Python.
+
+## 🚀 Features
+- Data Cleaning
+- Score Analysis
+- Gender-wise Analysis
+- Study Time Analysis
+- Parent Education Analysis
+
+## 🛠️ Technologies Used
+- Python
+- Pandas
+
+## 📂 Files
+- `student.py`
+- `student_data.csv`
+
+## ▶️ Run
+```bash
+python student.py
+```
+
+## 👨‍💻 Author
+BAHUTHARIVU M A
+
+GitHub: https://github.com/bahutharivumurugesan

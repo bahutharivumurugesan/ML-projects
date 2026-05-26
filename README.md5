@@ -1,0 +1,24 @@
+# Weather Temperature Analysis
+
+A simple weather temperature analysis project built using Python and NumPy.
+
+## Features
+- Average Temperature Analysis
+- Highest & Lowest Temperature Detection
+- Weekly Analysis
+- Temperature Filtering
+- Data Sorting
+
+## Technologies
+- Python
+- NumPy
+
+## Run
+
+```bash
+pip install numpy
+python weather.py
+```
+
+## Author
+BAHUTHARIVU M A

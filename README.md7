@@ -1,0 +1,15 @@
+# 📊 Learning Tracker
+
+A beginner-friendly data analysis project built using Python, Pandas, Seaborn, and Matplotlib to visualize learning progress, practice hours, projects completed, and confidence levels.
+
+## 🚀 Features
+- Data visualization
+- Learning progress analysis
+- Correlation heatmap
+- Beginner-friendly EDA
+
+## 🛠️ Tech Stack
+- Python
+- Pandas
+- Seaborn
+- Matplotlib

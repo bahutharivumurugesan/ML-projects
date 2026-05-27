@@ -1,0 +1,19 @@
+# 📊 Mobile Usage Analysis
+
+A beginner-friendly data visualization project built using Python, Pandas, and Matplotlib.
+
+## 🚀 Features
+- Line Graph
+- Bar Chart
+- Histogram
+- CSV Data Analysis
+
+## 🛠 Technologies
+- Python
+- Pandas
+- Matplotlib
+
+## ▶️ Run
+
+```bash
+python mobile.py

@@ -1,0 +1,15 @@
+# Car Price Prediction
+
+A beginner-friendly Machine Learning regression project that predicts car prices using Linear Regression.
+
+## Features
+- Data preprocessing
+- Train-test split
+- Linear Regression model
+- Price prediction
+- Model evaluation
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn

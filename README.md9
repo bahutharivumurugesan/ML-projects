@@ -1,0 +1,17 @@
+# Loan Approval Predictor
+
+A beginner machine learning classification project using Logistic Regression to predict loan approval status based on customer financial details.
+
+## Features
+- Income
+- Credit Score
+- Loan Amount
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+
+## Output
+- Loan Approved
+- Loan Rejected
